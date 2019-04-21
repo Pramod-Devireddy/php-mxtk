@@ -8,11 +8,13 @@ The PHP Mathematical Expression Tool Kit (MXTk) is a simple to use, easy to inte
 ## Capabilities
 The MXTK has the following capabilities:
 * Mathematical operators (+, -, *, /)
+* Implicit Multiplication
 * Equalities & Inequalities (=, ==, !=, <, <=, >, >=)
 * Logical operators (and, or)
 * Control structures (if-else if-else)
 * Expression local variables and strings
 * User defined variables, strings and constants
+* Scientific notation support
 * Single file implementation
 
 ## Example Expressions
